@@ -2,73 +2,33 @@ I am a highly skilled and experienced System and Computer Science Engineer with 
 
 ## Technical Skills
 
-### Frontend:
+<!-- table 3 columns 2 rows -->
+| **Frontend** | **Backend** | **DevOps** |
+--- | --- | ---
+| ReactJs | NodeJs | Docker |
+| Angular | NestJs Framework | Kubernetes |
+| NextJs Framework | tRPC | AWS ecosystem |
+| GraphQL | gRPC | Helm Charts |
+| REST | MongoDB | Bash |
+| Websockets | PostgreSQL | Pulumi |
+| HTML | Redis | Terraform |
+| CSS | Java | |
+| Javascript | Solidity | |
+| Typescript | Go | |
+| Tailwind CSS library | Rust | |
+| Chakra UI library | MikroORM |
+| Material UI library | TypeORM |
+| Ant Design library | Swagger |
+| Bootstrap UI library | |
 
-- ReactJs
-- Angular
-- NextJs Framework
-- GraphQL
-- REST
-- Websockets
-- HTML
-- CSS
-- Javascript
-- Typescript
-- Tailwind CSS library
-- Chakra UI library
-- Material UI library
-- Ant Design library
-- Bootstrap UI library
+---
 
-### Backend:
-
-- NodeJs
-- NestJs Framework
-- tRPC
-- gRPC
-- MongoDB
-- PostgreSQL
-- Redis
-- Java
-- Solidity
-- Go
-- Rust
-
-### Codebase management:
-
-- Nx Monorepo
-- Lerna Monorepo
-- Pnpm
-- Yarn
-- Npm
-- Git
-- Github Actions
-
-### Testing:
-
-- Cypress
-- Jest
-
-### DevOps:
-
-- Docker
-- Kubernetes
-- AWS ecosystem
-- Helm Charts
-- Bash
-- Pulumi
-- Terraform
-
-# Blockchain:
-
-- Hyperledger Fabric
-- Hyperledger Besu
-
-### ORM:
-
-- MikroORM
-- TypeORM
-
-### API Management:
-
-- Swagger
+| Codebase management | Testing | Blockchain |
+--- | --- | ---
+| Nx Monorepo | Cypress | Hyperledger Fabric |
+| Lerna Monorepo | Jest | Hyperledger Besu |
+| Pnpm | Supertest library | Ethereum |
+| Yarn | | Web3 |
+| Npm | |
+| Git | |
+| Github Actions | |
