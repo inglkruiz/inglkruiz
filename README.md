@@ -3,15 +3,15 @@ I am a highly skilled and experienced System and Computer Science Engineer with 
 ## Technical Skills
 
 <!-- table 3 columns 2 rows -->
-| **Frontend** | **Backend** | **DevOps** |
---- | --- | ---
-| ReactJs | NodeJs | Docker |
-| Angular | NestJs Framework | Kubernetes |
-| NextJs Framework | tRPC | AWS ecosystem |
-| GraphQL | gRPC | Helm Charts |
-| REST | MongoDB | Bash |
-| Websockets | PostgreSQL | Pulumi |
-| HTML | Redis | Terraform |
+| **Frontend** | **Backend** | **DevOps** | **Codebase management** | **Testing** | **Blockchain** |
+--- | --- | --- | --- | --- | ---
+| ReactJs | NodeJs | Docker | Nx Monorepo | Cypress | Hyperledger Fabric |
+| Angular | NestJs Framework | Kubernetes | Lerna Monorepo | Jest | Hyperledger Besu |
+| NextJs Framework | tRPC | AWS ecosystem | Pnpm | Supertest library | Ethereum |
+| GraphQL | gRPC | Helm Charts | Yarn | | Web3 |
+| REST | MongoDB | Bash | Npm | |
+| Websockets | PostgreSQL | Pulumi | Git | |
+| HTML | Redis | Terraform | Github Actions | |
 | CSS | Java | |
 | Javascript | Solidity | |
 | Typescript | Go | |
@@ -20,15 +20,3 @@ I am a highly skilled and experienced System and Computer Science Engineer with 
 | Material UI library | TypeORM |
 | Ant Design library | Swagger |
 | Bootstrap UI library | |
-
----
-
-| Codebase management | Testing | Blockchain |
---- | --- | ---
-| Nx Monorepo | Cypress | Hyperledger Fabric |
-| Lerna Monorepo | Jest | Hyperledger Besu |
-| Pnpm | Supertest library | Ethereum |
-| Yarn | | Web3 |
-| Npm | |
-| Git | |
-| Github Actions | |
